@@ -27,3 +27,17 @@ This project performs a comprehensive **data analysis** on a customer churn data
    - All plots generated and saved in the project folder
 
 ## File Structure
+C:/Users/aditya/3D Objects/Data-Analysis-Customer-Churn-R
+├── customer_churn1.csv
+├── customerchurn_cleaned.csv
+├── Mohantynaanee1.R
+├── README.md
+└── outputs/ (folder containing all generated graphs)
+
+
+## How to Run
+1. Open `Mohantynaanee1.R` in **RStudio**.
+2. Install required packages if not already installed:
+```R
+install.packages(c("dplyr", "ggplot2", "caret", "missForest"))
+
