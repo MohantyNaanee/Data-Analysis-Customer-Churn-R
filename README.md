@@ -27,12 +27,12 @@ This project performs a comprehensive **data analysis** on a customer churn data
    - All plots generated and saved in the project folder
 
 ## File Structure
-C:/Users/aditya/3D Objects/Data-Analysis-Customer-Churn-R
-├── customer_churn1.csv
-├── customerchurn_cleaned.csv
-├── Mohantynaanee1.R
-├── README.md
-└── outputs/ (folder containing all generated graphs)
+
+##├── customer_churn1.csv
+##├── customerchurn_cleaned.csv
+##├── Mohantynaanee1.R
+##├── README.md
+##└── outputs/ (folder containing all generated graphs)
 
 
 ## How to Run
