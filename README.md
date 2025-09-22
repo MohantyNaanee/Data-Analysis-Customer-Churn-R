@@ -47,14 +47,11 @@ All plots are saved in the `outputs/` folder and embedded below for quick previe
 #### Total Charges Distribution
 ![Total Charges Distribution](plots/totalcharges_distribution.png)
 
-#### Churn by Contract Type
-![Churn by Contract Type](plots/churn_contract_distribution.png)
-
 ---
 
 ## Outputs
 - Cleaned dataset: `customerchurn_cleaned.csv`  
-- All visualizations: saved in `outputs/` folder  
+- All visualizations: saved in `plots/` folder  
 
 ## File Structure
 - `customer_churn1.csv`
