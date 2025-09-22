@@ -30,25 +30,25 @@ It includes data cleaning, exploratory data analysis (EDA), and visualizations t
 All plots are saved in the `outputs/` folder and embedded below for quick preview.
 
 #### Gender Distribution
-![Gender Distribution](outputs/gender_distribution.png)
+![Gender Distribution](plots/gender_distribution.png)
 
 #### Senior Citizen Distribution by Gender
-![Senior Gender Distribution](outputs/senior_gender_distribution.png)
+![Senior Gender Distribution](plots/senior_gender_distribution.png)
 
 #### Internet Service Distribution
-![Internet Service Distribution](outputs/internet_service_distribution.png)
+![Internet Service Distribution](plots/internet_service_distribution.png)
 
 #### Phone Service Distribution
-![Phone Service Distribution](outputs/phone_service_distribution.png)
+![Phone Service Distribution](plots/phone_service_distribution.png)
 
 #### Payment Methods Distribution
-![Payment Methods Distribution](outputs/payment_methods_distribution.png)
+![Payment Methods Distribution](plots/payment_methods_distribution.png)
 
 #### Total Charges Distribution
-![Total Charges Distribution](outputs/totalcharges_distribution.png)
+![Total Charges Distribution](plots/totalcharges_distribution.png)
 
 #### Churn by Contract Type
-![Churn by Contract Type](outputs/churn_contract_distribution.png)
+![Churn by Contract Type](plots/churn_contract_distribution.png)
 
 ---
 
