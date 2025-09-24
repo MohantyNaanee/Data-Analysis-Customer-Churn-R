@@ -71,7 +71,7 @@ install.packages(c("dplyr", "ggplot2", "caret", "missForest"))
 ```
 
 ## Author
-**Your Name**  
+**Mohanty Naanee**  
 [LinkedIn](https://www.linkedin.com/in/MohantyNaanee) | [GitHub](https://github.com/MohantyNaanee)
 
 
