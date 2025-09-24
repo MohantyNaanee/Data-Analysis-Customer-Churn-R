@@ -60,17 +60,17 @@ All plots are saved in the `outputs/` folder and embedded below for quick previe
 - `README.md`
 - `outputs/` (folder containing all generated graphs)
 - 
-## Author
 
-**Your Name**  
-[LinkedIn](https://www.linkedin.com/in/MohantyNaanee) | [GitHub](https://github.com/MohantyNaanee)
+
 
 ## How to Run
 1. Open `Mohantynaanee1.R` in **RStudio**.
 2. Install required packages if not already installed:
 ```R
 install.packages(c("dplyr", "ggplot2", "caret", "missForest"))
-##
+```
+
+## Author
 **Your Name**  
 [LinkedIn](https://www.linkedin.com/in/MohantyNaanee) | [GitHub](https://github.com/MohantyNaanee)
 
